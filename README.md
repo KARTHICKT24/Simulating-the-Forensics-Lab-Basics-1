@@ -64,7 +64,7 @@
 
 ### **Virtual Box:**
 
-![](./images/VB.png)
+![image](https://github.com/user-attachments/assets/45460848-726d-453d-9d60-bab76fd9be65)
 
 ---
 
@@ -92,7 +92,8 @@
 
 ### **Creation of Virtual Hard Disk**
 
-![](./images/disk.png)
+![dfdi5](https://github.com/user-attachments/assets/1eab55f6-4387-4f41-b904-b6526a064481)
+
 
 ---
 
